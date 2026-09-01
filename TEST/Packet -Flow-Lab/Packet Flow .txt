@@ -1,1 +1,3 @@
-
+Packet Flow Lab - Notes
+- Router la packet eppadi pogum
+- Unicast / Broadcast / Multicast
